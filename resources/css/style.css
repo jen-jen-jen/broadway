@@ -2,36 +2,37 @@ body {
   font-family: Helvetica, sans-serif;
   text-align: center;
   color: white;
+  background-color: white;
 }
 
 h1 {
   font-size: 70px;
+  font-weight: bold;
 }
 
 h2 {
   font-size: 32px;
+  font-weight: bold;
+  color: black;
 }
 
 h3 {
   font-size: 23px;
+  font-weight: bold;
+  color: black;
 }
 
 p {
   font-size: 14px;
-}
-
-.black {
   color: black;
 }
 
-.bold {
-  font-weight: bold;
-}
-
-.hero {
-  background-image: url("./resources/images/the-flat-iron-building.png");
+.hero-section {
+  background-image: url("file:///Users/jenniferschneider/Downloads/projects/broadway/resources/images/the-flatiron-building.png");
 }
 
 nav a {
   text-decoration: underline;
+  font-size: 18px;
+  color: white;
 }
