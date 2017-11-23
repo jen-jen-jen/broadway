@@ -29,10 +29,31 @@ p {
 
 .hero-section {
   background-image: url("file:///Users/jenniferschneider/Downloads/projects/broadway/resources/images/the-flatiron-building.png");
+  background-size: auto;
 }
 
 nav a {
   text-decoration: underline;
   font-size: 18px;
   color: white;
+}
+
+.flatiron {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url("file:///Users/jenniferschneider/Downloads/projects/broadway/resources/images/the-flatiron-building.png");
+}
+
+.footer p {
+  font-size: 11px;
+  background-color: dimgray;
+  text-align: left;
+  color: white;
+  width: 100%;
+}
+
+.footer a {
+  color: white;
+  font-weight: bold;
 }
